@@ -1,3 +1,4 @@
 # A socket programming server project
-This project is used to learn more about socket programming, how does some multiplayer games works and packet designing.
-The main goal of this project currently is to undetstand how game servers work in order to create one myself.
+## What is this project
+This project (Project Serv (temp name)) is a project that was made to firstly revise and to understand socket programming by making a client-server model using Python, implement chatting and commands, and make the server handle multi-client service.
+The main goal of this project is to eventually study Minecraft's server protocol and make it from scratch in which finally, will try to create my own Minecraft server software.
